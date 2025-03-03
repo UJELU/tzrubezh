@@ -1,0 +1,17 @@
+{
+    "name": "emi16/test",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Emi16\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Egor Mukhin",
+            "email": "emi160900@gmail.com"
+        }
+    ]
+}
